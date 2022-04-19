@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class Main {//main class
     public static void main(String[] args) {
         System.out.println("Please Enter your name, Game is about to start ??");
-        Scanner scan = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);//use scanner 
 
         String playerName = scan.nextLine();
         @SuppressWarnings("resource")
