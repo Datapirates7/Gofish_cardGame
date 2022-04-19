@@ -8,7 +8,7 @@ package ca.sheridancollege.project;
  *
  * @author Muskan
  */
-class CardDeck extends GroupOfCards{ // Main class CardDeck
+class CardDeck extends GroupOfCards{ // Main class CardDeck extend from group of cards
 
     /**
      * CardDeck() constructor 
