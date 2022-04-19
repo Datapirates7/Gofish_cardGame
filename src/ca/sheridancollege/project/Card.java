@@ -27,7 +27,7 @@ public abstract class Card {
         this.Suit = Suit;
     }
 
-    public int getValue() {
+    public int getValue() {//getter and setter for value
         return Value;
     }
 
