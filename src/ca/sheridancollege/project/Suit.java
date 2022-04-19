@@ -18,7 +18,7 @@ public enum Suit {// make the suit class an enum
     private final String cardValue;
      
     
-     public String getCardValue() {
+     public String getCardValue() {//create the constructor private
         return cardValue;
     }
      
