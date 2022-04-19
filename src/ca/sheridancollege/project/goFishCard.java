@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Muskan
  */
-public class goFishCard extends Game {
+public class goFishCard extends Game {//main class goFishCard inherits the attributed for Game class
 
     int cardPlay = 0;
     private static final int HAND_NUM = 7;
