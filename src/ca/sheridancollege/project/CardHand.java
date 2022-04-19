@@ -12,7 +12,7 @@ public class CardHand extends GroupOfCards {
 
     private int initialHandSize;// initial number of the cards when game starts
 
-    public CardHand(int size) {// constructor  CardHard
+    public CardHand(int size) {// arg constructor  CardHard
         super();//  reference variable which is used to refer immediate parent class object
         initialHandSize = size;
     }
