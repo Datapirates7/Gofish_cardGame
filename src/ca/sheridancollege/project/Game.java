@@ -15,7 +15,7 @@ import java.util.ArrayList;
  * @author Paul Bonenfant Jan 2020
  * @modifier Muskan Muskan
  */
-public abstract class Game {
+public abstract class Game {// main class game
 
     private final String name;//the title of the game
     private ArrayList<Player> players;// the players of the game
