@@ -23,7 +23,7 @@ public enum ValueOfCard {//make the value of card class enum
     QUEEN(12),
     KING(13);
 
-    private final int numberValue; 
+    private final int numberValue; //make the constructor private
     
     public int getCardValue() {//GETTING VALUES FROM THE CARD
         return numberValue;
