@@ -12,7 +12,7 @@ package ca.sheridancollege.project;
  * @author Paul Bonenfant Jan 2020
  * @modifier Muskan Muskan
  */
-public abstract class Player {
+public abstract class Player {// creating the paler class abstract
 
     private String name; //the unique name for this player
 
