@@ -20,7 +20,7 @@ import java.util.Collections;
 public class GroupOfCards {
 
     //The group of cards, stored in an ArrayList
-    private ArrayList<FishCard> cards = new ArrayList();
+    private ArrayList<FishCard> cards = new ArrayList();//using arrayList
     private int size;//the size of the grouping
 
     
