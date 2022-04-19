@@ -16,7 +16,7 @@ public class FishCard extends Card {
     }
 
     @Override
-    public String toString() {
+    public String toString() {//overide toString method
         return getSuit() + "  " + getValue();
     }
      
